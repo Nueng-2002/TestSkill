@@ -26,7 +26,7 @@ function Overview() {
           <h1 className="text-orange-300 mr-4 text-2xl ">฿1,358</h1>
           <a
             href="#"
-            className="text-black rounded-full bg-orange-300 px-3 py-3 items-center"
+            className="text-black rounded-full bg-orange-300 px-3 py-3 items-center hover:bg-black hover:text-orange-200"
           >
             View this deal
           </a>

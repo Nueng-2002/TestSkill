@@ -39,7 +39,7 @@ function Theluxury() {
       </p>
 
       <div className="flex items-center">
-        <p className="text-orange-300 pt-6">Read More</p>
+      <a href="#" className="text-orange-200 pt-6 hover:text-orange-300">Read More</a>
         <a href="#" className="flex items-center ml-2">
           <GoArrowRight className="ml-1 text-cyan-50 mt-6" />
         </a>
@@ -100,7 +100,7 @@ function Theluxury() {
         </div>
       </div>
 
-      <div className="border-b-2 border-orange-200 w-full max-w-6xl pt-16"></div>
+      <div className="border-b-2 border-orange-200 w-full max-w-7xl pt-16"></div>
 
       <div className="relative top-[-650px] ms-96 max-h-1 ps-20">
         <div className="border-solid border-2 border-orange-300 rounded-lg p-8 bg-stone-800 mr-60 ml-96">
@@ -140,7 +140,7 @@ function Theluxury() {
           </div>
           <ul>
             <li className="pt-52">
-              <a href="#" className="text-orange-200">
+              <a href="#" className="text-orange-200 hover:text-orange-300">
                 Read More
               </a>
             </li>

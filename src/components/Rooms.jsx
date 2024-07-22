@@ -15,7 +15,7 @@ function Rooms() {
         <div className="ps-40">
           <img src={img4} alt="" className="mr-2"/>
           <div className="pt-5">
-            <a href="" className="text-orange-200 flex items-center">
+            <a href="" className="text-orange-200 flex items-center hover:text-orange-300">
               See room details{" "}
               <span className="ml-1">
                 <GoChevronRight />
@@ -46,7 +46,7 @@ function Rooms() {
             <p class="-ml-16">฿1,358</p>
             <a
               href=""
-              className="ml-64 text-black rounded-full bg-orange-300 px-3 py-2 text-lg relative top-[-10px]">
+              className="ml-64 text-black rounded-full bg-orange-300 px-3 py-2 text-lg relative top-[-10px] hover:bg-black hover:text-orange-200">
               Choose
             </a>
           </div>
@@ -62,7 +62,7 @@ function Rooms() {
         <div className="ps-40">
           <img src={img4} alt="" className="mr-2"/>
           <div className="pt-5">
-            <a href="" className="text-orange-200 flex items-center">
+            <a href="" className="text-orange-200 flex items-center hover:text-orange-300">
               See room details{" "}
               <span className="ml-1">
                 <GoChevronRight />
@@ -93,7 +93,7 @@ function Rooms() {
             <p class="-ml-16">฿1,358</p>
             <a
               href=""
-              className="ml-64 text-black rounded-full bg-orange-300 px-3 py-2 text-lg relative top-[-10px]">
+              className="ml-64 text-black rounded-full bg-orange-300 px-3 py-2 text-lg relative top-[-10px] hover:bg-black hover:text-orange-200">
               Choose
             </a>
           </div>
